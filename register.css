@@ -1,0 +1,72 @@
+li {
+    display: inline;
+    float: right;
+    padding: 4px;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+    
+  }
+  a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    position: relative;
+    bottom: 15px;
+    right: 10px;
+  }
+  nav{
+    width: 100%;
+    background-color: #040D12;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+  }
+body{
+    margin:0;
+    background-image: url(wallpaper2you_160711.jpg);
+    position: relative;
+    padding: 0;
+}
+#reg-1{
+    height:350px;
+    width: 100%;
+    
+
+}
+#reg-2{
+    height: 380px;
+    width:500px;
+    margin-left: 424px;
+    margin-top: 100px;
+    background-color:  #040D12;
+    border: solid 1px;
+    border-radius: 10px;
+}
+#type{
+       width: 450px;
+       height: 30px;
+       margin-left: 20px;
+       margin-top: 10px;
+       margin-bottom: 15px;
+       border-radius: 5px;
+
+}
+label{
+       margin-left: 215px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;       
+       color: white;
+       font-size: 14px;
+
+}       
+#submit{
+    margin-left: 225px;
+}
+h2{
+    color: whitesmoke;
+    margin-left: 157px;
+}
+p{
+  color:red;
+  position: relative;
+  left:100px;
+}
